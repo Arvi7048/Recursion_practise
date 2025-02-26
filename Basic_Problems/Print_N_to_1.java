@@ -1,6 +1,6 @@
 package Basic_Problems;
 
-public class print_N_to_1 {
+public class Print_N_to_1 {
 
 
     public static void printNum(int n){
