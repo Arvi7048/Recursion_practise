@@ -1,4 +1,4 @@
-package Basic_Problems;
+package a_Basic_Problems;
 import java.util.*;
 public class SumOf_n_nos {
      int rSum(int n){

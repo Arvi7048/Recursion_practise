@@ -1,4 +1,4 @@
-package Easy_Problems;
+package b_Easy_Problems;
 import java.util.*;
 public class CheckArraySorted {
     boolean isSorted(int arr[], int n){

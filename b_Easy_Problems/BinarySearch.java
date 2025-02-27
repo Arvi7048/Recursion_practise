@@ -1,5 +1,4 @@
-package Easy_Problems;
-import java.util.*;
+package b_Easy_Problems;
 
 public class BinarySearch {
     int rBinSear(int[] arr,int l,int r, int key){

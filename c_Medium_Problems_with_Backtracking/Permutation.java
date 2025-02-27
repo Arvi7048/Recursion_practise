@@ -1,4 +1,4 @@
-package Medium_Problems_with_Backtracking;
+package c_Medium_Problems_with_Backtracking;
 import java.util.*;
 public class Permutation {
 
